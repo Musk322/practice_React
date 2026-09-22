@@ -1,0 +1,11 @@
+#info{
+  text-align:center;
+  margin:10px;
+}
+
+.btn{
+  padding: 6px 12px;
+  font-size:30px;
+  margin:5px;
+  background-color:brown;
+}
